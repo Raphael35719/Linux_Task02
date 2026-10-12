@@ -1,0 +1,2 @@
+# Evidence
+Contains the complete supplied assignment PDF, `Raphael_Linux_Task_02.pdf`, copied here as requested. Add screenshots from your own Kali Linux session with descriptive names, e.g. `01-user-created.png`, `02-project-tree.png`, `03-report-content.png`, `04-permissions.png`, `05-final-checks.png`. The PDF is the task brief, not evidence that the task is complete. Do not expose passwords or secrets in screenshots.

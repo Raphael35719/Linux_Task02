@@ -1,0 +1,61 @@
+    1  mkdir project
+    2  cd project
+    3  mkdir docs scripts bin
+    4  ls
+    5  cd docs
+    6  echo "This is the initial report by student01" > report.txt
+    7  cat report.txt
+    8  ls -la
+    9  echo "Top Secret" > .secret.txt
+   10  ls -a
+   11  cat .secret.txt
+   12  nano report.txt
+   13  cat report.txt
+   14  cp report.txt ../scripts/
+   15  cat ../scripts
+   16  ls ../scripts/
+   17  cd scripts
+   18  cd ../scripts
+   19  nano install.sh
+   20  cat install.sh
+   21  mv .secret.txt ../bin
+   22  mv .secret.txt ../bin/
+   23  mv ../docs/.secret.txt ../bin/
+   24  cd ../bin
+   25  ls
+   26  ls -a
+   27  mv .secret.txt classified.txt
+   28  ls
+   29  cd ../scripts
+   30  ls
+   31  chmod 100 install.sh
+   32  ls -l
+   33  chmod 767 install.sh
+   34  ls -l
+   35  cd ../bin
+   36  ls
+   37  chmod 763 classified.txt
+   38  ls -l
+   39  cd ../docs
+   40  ls
+   41  touch admin_notes.txt
+   42  ls
+   43  chmod 677 admin_notes.txt
+   44  rm admin_notes.txt
+   45  ls
+   46  cd ~
+   47  cd ../
+   48  cd project
+   49  cd ~
+   50  cd project
+   51  mkdir backup
+   52  ls
+   53  cp -r docs/. scripts/. backup/
+   54  ls backup
+   55  cd ~
+   56  sudo apt install tree
+   57  exit
+   58  sudo apt install tree
+   59  tree project
+   60  ls -la
+   61  history

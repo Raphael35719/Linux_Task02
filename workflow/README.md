@@ -1,0 +1,2 @@
+# Workflow
+Contains `PROGRESS.md` to track task completion and `GIT_BASH_GUIDE.md` to publish the project from Windows Git Bash. Execute practical Linux commands in Kali Linux; use Git Bash for Git operations.

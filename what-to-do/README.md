@@ -1,0 +1,2 @@
+# What to Do
+Contains the practical task guide and ordered commands for Kali Linux. Read `TASK_GUIDE.md` from beginning to end. Use administrative privileges only where needed to create/configure `student01`; perform the remaining practical steps as `student01`.
